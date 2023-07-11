@@ -1,0 +1,25 @@
+form{
+    width: 50%;
+    margin: 2% auto;
+}
+
+input{
+    margin-top: 5px;
+}
+
+.header{
+    padding-top: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 10vh;
+    color: #161616;
+   
+}
+.header h1{
+    font-size: 24px;
+    border-radius: 20px;
+    color: rgb(0, 136, 255);
+
+}
